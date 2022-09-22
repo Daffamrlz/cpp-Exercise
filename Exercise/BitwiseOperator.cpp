@@ -4,6 +4,9 @@ int main(){
 int angka = 0;
 printf("%d\n", angka++);
 printf("%d\n", angka);
-
+//Post - Increment
+int angka = 0;
+printf("%d\n", angka--);
+printf("%d\n", angka);
     return 0;
 }
